@@ -9,6 +9,7 @@ namespace ksbnet_api_v1.Models
         public string description { get; set; }
         public int project_type { get; set; }
         public string slug { get; set; }
+        public string demo_link { get; set; }
 
     }
 }

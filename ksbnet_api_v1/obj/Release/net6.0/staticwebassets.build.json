@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rIgRzec7AGpG51fdfOdyZmmu89bIZLYyp4VEg5bZVJw=",
+  "Source": "ksbnet_api_v1",
+  "BasePath": "_content/ksbnet_api_v1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
