@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{740EB83E-4399-4AD3-AADC-635A777ACFE2}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ksbnet_api_v1/Controllers/ClientController.cs">
+    <Files>
+      <File FileName="ksbnet_api_v1/Models/Project.cs" Line="2" Column="17" />
+      <File FileName="ksbnet_api_v1/Controllers/ContactController.cs" Line="57" Column="10" />
+      <File FileName="ksbnet_api_v1/Controllers/ProjectController.cs" Line="77" Column="34" />
+      <File FileName="ksbnet_api_v1/Controllers/WeatherForecastController.cs" Line="20" Column="1" NotebookId="1" />
+      <File FileName="ksbnet_api_v1/WeatherForecast.cs" Line="14" Column="1" NotebookId="1" />
+      <File FileName="ksbnet_api_v1/Models/Message.cs" Line="14" Column="1" NotebookId="1" />
+      <File FileName="ksbnet_api_v1/Program.cs" Line="34" Column="22" NotebookId="1" />
+      <File FileName="ksbnet_api_v1/Controllers/ClientController.cs" Line="46" Column="29" NotebookId="1" />
+      <File FileName="ksbnet_api_v1/Models/Client.cs" Line="12" Column="1" NotebookId="1" />
+      <File FileName="ksbnet_api_v1/Models/Function.cs" Line="4" Column="19" NotebookId="1" />
+      <File FileName="ksbnet_api_v1/Controllers/FunctionController.cs" Line="50" Column="6" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ksbnet_api_v1" expanded="True">
+            <Node name="ksbnet_api_v1" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ClientController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Photos" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ksbnet__api__v1 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
